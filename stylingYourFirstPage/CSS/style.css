@@ -1,0 +1,61 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+header {
+    background-color: beige;
+    color:rgb(0, 0, 0);
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* text-align: center; */
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+nav {
+    background-color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color:antiquewhite;
+    color: tomato;
+    padding: 15px;
+    margin-top: 150px;
+}
+
+.main_image img{
+    margin: 10px;
+    width: 40%;
+    height: auto;
+}
+.images_01 img{
+    width: 18%;
+    margin: 10px;
+}
+.images_02 img{
+    margin: 10px;
+    width: 18%;
+}
+
+p {
+    line-height: 2;
+    margin: 10px;
+}
+li {
+    display: inline-block;
+    width: 115px;
+}
+main {
+    background-color: rgb(255, 197, 197);
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(77, 74, 70);
+}   
